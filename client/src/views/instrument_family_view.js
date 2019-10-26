@@ -104,4 +104,5 @@ class InstrumentFamilyView {
 //   return list;
 // };
 
-module.exports = InstrumentFamilyView;
+export {InstrumentFamilyView};
+// module.exports = InstrumentFamilyView;

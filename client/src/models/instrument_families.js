@@ -39,5 +39,5 @@ class InstrumentFamilies {
 //   });
 // };
 
-
-module.exports = InstrumentFamilies;
+export {InstrumentFamilyView};
+// module.exports = InstrumentFamilies;
